@@ -1,0 +1,12 @@
+{
+  "name": "auto channel bot",
+  "version": " 1.0.0 ",
+  "description": "makes a channel",
+  "main": "bot.js",
+  "author": "lorenzo",
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
